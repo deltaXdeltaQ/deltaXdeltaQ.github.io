@@ -30,3 +30,11 @@ Hardware-efficient fault tolerance with bosonic qubits
 Q. X., Pei Zeng, Daohong Xu, and Liang Jiang.\ 
 Phys. Rev. X, in press. [arXiv](https://arxiv.org/abs/2310.20578) (2023).
 
+**Autonomous quantum error correction and fault-tolerant quantum computation with squeezed cat
+qubits.**
+
+Q. X., Guo Zheng, Yu-Xin Wang, Peter Zoller, Aashish A. Clerk, and Liang Jiang.\
+[npj Quantum Inf](https://www.nature.com/articles/s41534-023-00746-0#citeas) (2023). 
+
+
+
