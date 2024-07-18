@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "QX_photo.jpeg"
+  avatar           : "QX_photo.png"
   name             : "Qian Xu"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at Caltech"
