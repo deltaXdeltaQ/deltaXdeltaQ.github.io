@@ -27,8 +27,8 @@ Hardware-efficient fault tolerance with bosonic qubits
 
 **Fault-Tolerant Operation of Bosonic Qubits with Discrete-Variable Ancillae.**
 
-**Q. X.**, Pei Zeng, Daohong Xu, and Liang Jiang.\ 
-Phys. Rev. X, in press. [arXiv](https://arxiv.org/abs/2310.20578) (2023).
+**Q. X.**, Pei Zeng, Daohong Xu, and Liang Jiang.\
+Phys. Rev. X, in press. [arXiv](https://arxiv.org/abs/2310.20578) (2023). [QEC 23](https://www.youtube.com/watch?v=9ng8st0Yp_c)
 
 **Autonomous quantum error correction and fault-tolerant quantum computation with squeezed cat
 qubits.**
