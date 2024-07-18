@@ -18,8 +18,7 @@ Low-overhead fault-tolerant quantum computing with quantum low-density-parity-ch
 
 **Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays.** 
 
-Q. X., J. Pablo Bonilla Ataides, Christopher A. Pattison, Nithin Raveendran, Dolev Bluvstein, Jonathan Wurtz, Bane Vasic, Mikhail D. Lukin, Liang Jiang, and Hengyun Zhou.
-
+Q. X., J. Pablo Bonilla Ataides, Christopher A. Pattison, Nithin Raveendran, Dolev Bluvstein, Jonathan Wurtz, Bane Vasic, Mikhail D. Lukin, Liang Jiang, and Hengyun Zhou.\
 [Nat. Phys.](https://www.nature.com/articles/s41567-024-02479-z) (2024).
 
 
@@ -28,7 +27,6 @@ Hardware-efficient fault tolerance with bosonic qubits
 
 **Fault-Tolerant Operation of Bosonic Qubits with Discrete-Variable Ancillae.**
 
-Q. X., Pei Zeng, Daohong Xu, and Liang Jiang.  
-
+Q. X., Pei Zeng, Daohong Xu, and Liang Jiang.\ 
 Phys. Rev. X, in press. [arXiv](https://arxiv.org/abs/2310.20578) (2023).
 
