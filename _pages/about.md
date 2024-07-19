@@ -46,7 +46,7 @@ Peter Leviant, **Q. X.**, Liang Jiang, and Serge Rosenblum.\
 
 **\[5\]. Stabilizing a Bosonic Qubit Using Colored Dissipation.**\
 Harald Putterman, Joseph Iverson, **Q. X.**, Liang Jiang, Oskar Painter, Fernando G.S.L. Brando, and Kyungjoo Noh.\
-[*Phys. Rev. Lett.*](https://journals.aps.org/prl/abstract/10.1103/128.110502) (2022). \[[US Patent](https://patents.google.com/patent/US12001919B1/en)\\].
+[*Phys. Rev. Lett.*](https://journals.aps.org/prl/abstract/10.1103/128.110502) (2022). \[[US Patent](https://patents.google.com/patent/US12001919B1/en)\].
 
 
 **\[6\]. Engineering Kerr-Cat Qubits for Hardware-Efficient Quantum Error Correction.**\
