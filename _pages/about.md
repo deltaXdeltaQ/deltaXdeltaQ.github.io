@@ -46,7 +46,7 @@ Peter Leviant, **Q. X.**, Liang Jiang, and Serge Rosenblum.\
 
 **\[5\]. Stabilizing a Bosonic Qubit Using Colored Dissipation.**\
 Harald Putterman, Joseph Iverson, **Q. X.**, Liang Jiang, Oskar Painter, Fernando G.S.L. Brando, and Kyungjoo Noh.\
-[Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/128.110502) (2022).
+[Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/128.110502) (2022). \[[US Patent](https://patents.google.com/patent/US12001919B1/en)\\].
 
 
 **\[6\]. Engineering Kerr-Cat Qubits for Hardware-Efficient Quantum Error Correction.**\
@@ -56,7 +56,7 @@ Harald Putterman, Joseph Iverson, **Q. X.**, Liang Jiang, Oskar Painter, Fernand
 
 **\[7\]. Engineering Fast Bias-Preserving Gates on Stabilized Cat Qubits.**\
 **Q. X.**, Joseph Iverson, Fernando G.S.L. Brando, and Liang Jiang.\
-[Phys. Rev. Research](https://journals.aps.org/prresearch/abstract/10.1103/.4.013082) (2022). 
+[Phys. Rev. Research](https://journals.aps.org/prresearch/abstract/10.1103/.4.013082) (2022). \[[US Patent](https://patents.google.com/patent/US20240119337A1/en)\].
 
 
 **\[8\]. Quantum Repeaters Based on Concatenated Bosonic and Discrete-Variable Quantum Codes.**\
@@ -68,12 +68,12 @@ Tailored topological codes
 ======
 
 **Distributed Quantum Error Correction for Chip-Level Catastrophic Errors.**\
-**Q. X.**, Alireza Seif, Haoxiong Yan, Nam Mannucci, Bernard Ousmane Sane, Rodney Van Meter, Andrew N. Cleland, and Liang Jiang.\  
+**\[1\]. Q. X.**, Alireza Seif, Haoxiong Yan, Nam Mannucci, Bernard Ousmane Sane, Rodney Van Meter, Andrew N. Cleland, and Liang Jiang.\  
 [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.240502) (2022).
 
 
 **Tailored XZZX Codes for Biased Noise.**\
-**Q. X.**, Nam Mannucci, Alireza Seif, Aleksander Kubica, Steven T. Flammia, and Liang Jiang.\ [Phys. Rev. Research](https://journals.aps.org/prresearch/abstract/10.1103/5.013035) (2022).
+**\[2\]. Q. X.**, Nam Mannucci, Alireza Seif, Aleksander Kubica, Steven T. Flammia, and Liang Jiang.\ [Phys. Rev. Research](https://journals.aps.org/prresearch/abstract/10.1103/5.013035) (2022).
 
 
 
