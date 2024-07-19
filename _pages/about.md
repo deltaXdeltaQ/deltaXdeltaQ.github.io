@@ -44,26 +44,36 @@ Peter Leviant, **Q. X.**, Liang Jiang, and Serge Rosenblum.\
 [Quantum](https://quantum-journal.org/papers/q-2022-09-29-821/) (2022).
 
 
-**Stabilizing a Bosonic Qubit Using Colored Dissipation.**\
+**\[5\]. Stabilizing a Bosonic Qubit Using Colored Dissipation.**\
 Harald Putterman, Joseph Iverson, **Q. X.**, Liang Jiang, Oskar Painter, Fernando G.S.L. Brando, and Kyungjoo Noh.\
 [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/128.110502) (2022).
 
 
-**Engineering Kerr-Cat Qubits for Hardware-Efficient Quantum Error Correction.**\
+**\[6\]. Engineering Kerr-Cat Qubits for Hardware-Efficient Quantum Error Correction.**\
 **Q. X.**,  Harald Putterman, Joseph Iverson, Kyungjoo Noh, Oskar Painter, Fernando G.S.L. Brando, and Liang Jiang.\
 [Quantum Computing, Communication, and Simulation II. Vol. 12015. SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12015/120150B/Engineering-Kerr-cat-qubits-for-hardware-efficient-quantum-error-correction/10.1117/12.2614832.short) (2022). 
 
 
-**Engineering Fast Bias-Preserving Gates on Stabilized Cat Qubits.**\
+**\[7\]. Engineering Fast Bias-Preserving Gates on Stabilized Cat Qubits.**\
 **Q. X.**, Joseph Iverson, Fernando G.S.L. Brando, and Liang Jiang.\
 [Phys. Rev. Research](https://journals.aps.org/prresearch/abstract/10.1103/.4.013082) (2022). 
 
 
-**Quantum Repeaters Based on Concatenated Bosonic and Discrete-Variable Quantum Codes.**\
+**\[8\]. Quantum Repeaters Based on Concatenated Bosonic and Discrete-Variable Quantum Codes.**\
 Filip Rozpędek, Kyungjoo Noh, **Q. X.**, Saikat Guha, and Liang Jiang.\
 [npj Quantum Information](https://www.nature.com/articles/s41534-021-00438-7) (2021).
 
 
+Tailored topological codes
+======
+
+**Distributed Quantum Error Correction for Chip-Level Catastrophic Errors.**\
+**Q. X.**, Alireza Seif, Haoxiong Yan, Nam Mannucci, Bernard Ousmane Sane, Rodney Van Meter, Andrew N. Cleland, and Liang Jiang.\  
+[Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.240502) (2022).
+
+
+**Tailored XZZX Codes for Biased Noise.**\
+**Q. X.**, Nam Mannucci, Alireza Seif, Aleksander Kubica, Steven T. Flammia, and Liang Jiang.\ [Phys. Rev. Research](https://journals.aps.org/prresearch/abstract/10.1103/5.013035) (2022).
 
 
 
