@@ -11,7 +11,7 @@ I am a Sherman Fairchild postdoctoral fellow in the Walter Burke Institute for T
 
 I received my Ph.D. in Quantum Science and Engineering from the University of Chicago in 2024, advised by [Liang Jiang](https://pme.uchicago.edu/faculty/liang-jiang). My thesis is [Towards Practical Fault-Tolerant Quantum Computing](https://knowledge.uchicago.edu/record/12363?v=pdf). I obtained my B.S. in Physics from Nanjing University in 2019. 
 
-My research focuses on quantum error correction and fault-tolerant quantum computing. I am interested in designing new quantum error-correcting codes and fault-tolerant schemes that minimize space-time overhead. Additionally, I explore methods to develop noise-robust quantum processors by integrating techniques from quantum error correction, quantum control, reservoir engineering, etc.
+My research focuses on quantum error correction and fault-tolerant quantum computing. I am interested in designing new quantum error-correcting codes and fault-tolerant schemes that minimize space-time overhead. Additionally, I explore methods to develop noise-robust quantum processors by integrating techniques from quantum error correction, quantum control, reservoir engineering, etc. Please find my research topics and publications below.
 
 Low-overhead fault-tolerant quantum computing with quantum low-density-parity-check (qLDPC) codes
 ======
