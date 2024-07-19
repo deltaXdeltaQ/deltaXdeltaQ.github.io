@@ -54,6 +54,16 @@ Harald Putterman, Joseph Iverson, **Q. X.**, Liang Jiang, Oskar Painter, Fernand
 [Quantum Computing, Communication, and Simulation II. Vol. 12015. SPIE](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12015/120150B/Engineering-Kerr-cat-qubits-for-hardware-efficient-quantum-error-correction/10.1117/12.2614832.short) (2022). 
 
 
+**Engineering Fast Bias-Preserving Gates on Stabilized Cat Qubits.**\
+**Q. X.**, Joseph Iverson, Fernando G.S.L. Brando, and Liang Jiang.\
+[Phys. Rev. Research](https://journals.aps.org/prresearch/abstract/10.1103/.4.013082) (2022). 
+
+
+**Quantum Repeaters Based on Concatenated Bosonic and Discrete-Variable Quantum Codes.**\
+Filip Rozpędek, Kyungjoo Noh, **Q. X.**, Saikat Guha, and Liang Jiang.\
+[npj Quantum Information](https://www.nature.com/articles/s41534-021-00438-7) (2021).
+
+
 
 
 
