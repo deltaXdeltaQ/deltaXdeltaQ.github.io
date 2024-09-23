@@ -20,7 +20,7 @@ Low-overhead fault-tolerant quantum computing with quantum low-density-parity-ch
 **Q. X.**, J. Pablo Bonilla Ataides, Christopher A. Pattison, Nithin Raveendran, Dolev Bluvstein, Jonathan Wurtz, Bane Vasic, Mikhail D. Lukin, Liang Jiang, and Hengyun Zhou.\
 [Nat. Phys.](https://www.nature.com/articles/s41567-024-02479-z) (2024). \[[QIP 2024](https://www.youtube.com/watch?v=5tfj4ArAJa0)\]. \[[QEC 23](https://www.youtube.com/watch?v=rBuKW87xrag)\].\[[Article by Quanta Magzine](https://www.quantamagazine.org/new-codes-could-make-quantum-computing-10-times-more-efficient-20230825)\].
 
-**[1]. Fast and Parallelizable Logical Computation with Homological Product Codes.**\
+**[2]. Fast and Parallelizable Logical Computation with Homological Product Codes.**\
 **Q. X.**, Hengyun Zhou, Guo Zheng, Dolev Bluvstein, J. Pablo Bonilla Ataides, Mikhail D. Lukin, Liang Jiang.\
 [arXiv 2407.18490](https://arxiv.org/abs/2407.18490) (2024). 
 
