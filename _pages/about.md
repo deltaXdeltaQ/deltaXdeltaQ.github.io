@@ -76,7 +76,7 @@ Tailored topological codes
 
 
 **Tailored XZZX Codes for Biased Noise.**\
-**\[2\]. Q. X.**, Nam Mannucci, Alireza Seif, Aleksander Kubica, Steven T. Flammia, and Liang Jiang.\ 
+**\[2\]. Q. X.**, Nam Mannucci, Alireza Seif, Aleksander Kubica, Steven T. Flammia, and Liang Jiang.\
 [*Phys. Rev. Research*](https://journals.aps.org/prresearch/abstract/10.1103/5.013035) (2022).
 
 
