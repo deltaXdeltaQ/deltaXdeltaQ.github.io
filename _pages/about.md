@@ -22,7 +22,7 @@ Low-overhead fault-tolerant quantum computing with quantum low-density-parity-ch
 
 **[2]. Fast and Parallelizable Logical Computation with Homological Product Codes.**\
 **Q. X.**, Hengyun Zhou, Guo Zheng, Dolev Bluvstein, J. Pablo Bonilla Ataides, Mikhail D. Lukin, Liang Jiang.\
-[arXiv 2407.18490](https://arxiv.org/abs/2407.18490) (2024). 
+[arXiv 2407.18490](https://arxiv.org/abs/2407.18490) (2024). \[[QIP 2025](https://rsvp.duke.edu/event/qip2025/accepted-talks)\]. 
 
 Hardware-efficient fault tolerance with bosonic qubits
 ======
