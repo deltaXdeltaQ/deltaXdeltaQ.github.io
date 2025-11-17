@@ -37,7 +37,7 @@ Guo Zheng, Liang Jiang, **Q. X.**.\
 [arXiv](https://arxiv.org/abs/2510.08523) (2025). 
 
 
-Hardware-efficient fault tolerance with bosonic qubits
+Hardware-efficient fault tolerance with bosonic system and quantum optics
 ======
 
 **\[1\]. Fault-Tolerant Operation of Bosonic Qubits with Discrete-Variable Ancillae.**\
@@ -80,7 +80,7 @@ Filip Rozpędek, Kyungjoo Noh, **Q. X.**, Saikat Guha, and Liang Jiang.\
 [*npj Quantum Information*](https://www.nature.com/articles/s41534-021-00438-7) (2021).
 
 
-Tailored topological codes
+Topological codes
 ======
 
 **Distributed Quantum Error Correction for Chip-Level Catastrophic Errors.**\
