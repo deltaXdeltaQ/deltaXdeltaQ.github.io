@@ -9,11 +9,11 @@ redirect_from:
 
 I am a Sherman Fairchild postdoctoral fellow in the Walter Burke Institute for Theoretical Physics at Caltech, supervised by [John Preskill](http://theory.caltech.edu/~preskill/).
 
-I received my Ph.D. in Quantum Science and Engineering from the University of Chicago in 2024, advised by [Liang Jiang](https://pme.uchicago.edu/faculty/liang-jiang). My thesis is [Towards Practical Fault-Tolerant Quantum Computing](https://knowledge.uchicago.edu/record/12363?v=pdf). I obtained my B.S. in Physics from Nanjing University in 2019. 
+I received my Ph.D. in Quantum Science and Engineering from the University of Chicago in 2024, advised by [Liang Jiang](https://pme.uchicago.edu/faculty/liang-jiang), and obtained my B.S. in Physics from Nanjing University in 2019. 
 
-My research focuses on quantum error correction and fault-tolerant quantum computing. I am interested in designing new quantum error-correcting codes and fault-tolerant schemes that minimize space-time overhead. Additionally, I explore methods to develop noise-robust quantum processors by integrating techniques from quantum error correction, quantum control, reservoir engineering, etc. Please find my research topics and publications below.
+My research focuses on quantum error correction and fault-tolerant quantum information science, and their interplay with physics and computer science. I am driven by a central question: How can new quantum codes, logical operations, and architectures enable error-corrected quantum machines with hundreds or even thousands of logical qubits in the near term, and how might such reliable quantum machines, in turn, become unprecedented instruments for new scientific discovery?
 
-Low-overhead fault-tolerant quantum computing with quantum low-density-parity-check (qLDPC) codes
+High-rate quantum codes and logical operations
 ======
 
 **[1]. Constant-Overhead Fault-Tolerant Quantum Computation with Reconfigurable Atom Arrays.**\
@@ -22,7 +22,13 @@ Low-overhead fault-tolerant quantum computing with quantum low-density-parity-ch
 
 **[2]. Fast and Parallelizable Logical Computation with Homological Product Codes.**\
 **Q. X.**, Hengyun Zhou, Guo Zheng, Dolev Bluvstein, J. Pablo Bonilla Ataides, Mikhail D. Lukin, Liang Jiang.\
-[arXiv 2407.18490](https://arxiv.org/abs/2407.18490) (2024). \[[QIP 2025](https://rsvp.duke.edu/event/qip2025/accepted-talks)\]. 
+[*Phys. Rev. X*](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021065) (2025). \[[QIP 2025](https://www.youtube.com/watch?v=kpB3jYoTlIQ)\]. \[[APS Global Physics Summit (invited)](https://summit.aps.org/attend/registration?campaignid=21927352302&adgroupid=171684378478&adid=722391688294&gad_source=1&gclid=CjwKCAiA9vS6BhA9EiwAJpnXw7vU-kIQ-OY2RAdh3NpgQsocLFOUXPA2l6HUY5ex5FnGn0PAI0cKHxoClNcQAvD_BwE)\].
+
+\item \textbf{Q. X.}, Hengyun Zhou, Dolev Bluvstein, Madelyn Cain, Marcin Kalinowski, John Preskill, Mikhail D. Lukin, and Nishad Maskara. B \href{https://arxiv.org/abs/2510.06159}{\emph{arXiv 2510.06159}} (2025); 
+
+**[3]. Batched high-rate logical operations for quantum LDPC codes.**\
+**Q. X.**, Hengyun Zhou, Dolev Bluvstein, Madelyn Cain, Marcin Kalinowski, John Preskill, Mikhail D. Lukin, and Nishad Maskara.\
+[arXiv 2510.06159](https://arxiv.org/abs/2510.06159) (2025). \[[QIP 2026](https://qip2026.lu.lv/programme/accepted-papers/)\].
 
 Hardware-efficient fault tolerance with bosonic qubits
 ======
