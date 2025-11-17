@@ -24,11 +24,18 @@ High-rate quantum codes and logical operations
 **Q. X.**, Hengyun Zhou, Guo Zheng, Dolev Bluvstein, J. Pablo Bonilla Ataides, Mikhail D. Lukin, Liang Jiang.\
 [*Phys. Rev. X*](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021065) (2025). \[[QIP 2025](https://www.youtube.com/watch?v=kpB3jYoTlIQ)\]. \[[APS Global Physics Summit (invited)](https://summit.aps.org/attend/registration?campaignid=21927352302&adgroupid=171684378478&adid=722391688294&gad_source=1&gclid=CjwKCAiA9vS6BhA9EiwAJpnXw7vU-kIQ-OY2RAdh3NpgQsocLFOUXPA2l6HUY5ex5FnGn0PAI0cKHxoClNcQAvD_BwE)\].
 
-\item \textbf{Q. X.}, Hengyun Zhou, Dolev Bluvstein, Madelyn Cain, Marcin Kalinowski, John Preskill, Mikhail D. Lukin, and Nishad Maskara. B \href{https://arxiv.org/abs/2510.06159}{\emph{arXiv 2510.06159}} (2025); 
-
 **[3]. Batched high-rate logical operations for quantum LDPC codes.**\
 **Q. X.**, Hengyun Zhou, Dolev Bluvstein, Madelyn Cain, Marcin Kalinowski, John Preskill, Mikhail D. Lukin, and Nishad Maskara.\
-[arXiv 2510.06159](https://arxiv.org/abs/2510.06159) (2025). \[[QIP 2026](https://qip2026.lu.lv/programme/accepted-papers/)\].
+[arXiv](https://arxiv.org/abs/2510.06159) (2025). \[[QIP 2026](https://qip2026.lu.lv/programme/accepted-papers/)\].
+
+**[4]. Transversal dimension jump for product qLDPC codes.**\
+Christine Li, John Preskill, **Q. X.**.\
+[arXiv](https://arxiv.org/abs/2510.07269) (2025). \[[Unitary fundamtion](https://github.com/unitaryfoundation/quantum-wednesday)\].
+
+**[5]. High-Rate Surgery: towards constant-overhead logical operations.**\
+Guo Zheng, Liang Jiang, **Q. X.**.\
+[arXiv](https://arxiv.org/abs/2510.08523) (2025). 
+
 
 Hardware-efficient fault tolerance with bosonic qubits
 ======
