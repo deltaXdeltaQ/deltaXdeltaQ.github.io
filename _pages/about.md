@@ -30,7 +30,7 @@ High-rate quantum codes and logical operations
 
 **[4]. Transversal dimension jump for product qLDPC codes.**\
 Christine Li, John Preskill, **Q. X.**.\
-[arXiv](https://arxiv.org/abs/2510.07269) (2025). \[[Unitary fundamtion](https://github.com/unitaryfoundation/quantum-wednesday)\].
+[arXiv](https://arxiv.org/abs/2510.07269) (2025). \[[Unitary foundation talks](https://github.com/unitaryfoundation/quantum-wednesday)\].
 
 **[5]. High-Rate Surgery: towards constant-overhead logical operations.**\
 Guo Zheng, Liang Jiang, **Q. X.**.\
